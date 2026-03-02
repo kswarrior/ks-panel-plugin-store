@@ -1,62 +1,32 @@
 [
   {
-    "id": "template-manager",
     "name": "Template Manager",
-    "description": "Create and manage server templates.",
     "version": "1.0.0",
     "author": "KS Warrior",
     "category": "management",
-    "icon": "layout-template",
-    "minPanelVersion": "2.0.0",
+    "icon": "https://raw.githubusercontent.com/kswarrior/ks-panel-store/main/icons/template-manager.png",
     "price": "free",
-    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/template-manager.zip"
+    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/template-manager.kspp",
+    "more": "https://raw.githubusercontent.com/kswarrior/ks-panel-store/main/details/template-manager.json"
   },
   {
-    "id": "backup-manager",
     "name": "Backup Manager",
-    "description": "Create, restore, and schedule automatic server backups.",
     "version": "1.2.0",
     "author": "KS Warrior",
     "category": "management",
-    "icon": "database-backup",
-    "minPanelVersion": "2.0.0",
+    "icon": "https://raw.githubusercontent.com/kswarrior/ks-panel-store/main/icons/backup-manager.png",
     "price": "free",
-    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/backup-manager.zip"
+    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/backup-manager.kspp",
+    "more": "https://raw.githubusercontent.com/kswarrior/ks-panel-store/main/details/backup-manager.json"
   },
   {
-    "id": "resource-monitor",
     "name": "Resource Monitor",
-    "description": "Monitor CPU, RAM, and disk usage in real time.",
     "version": "1.1.0",
     "author": "KS Warrior",
     "category": "monitoring",
-    "icon": "cpu",
-    "minPanelVersion": "2.1.0",
+    "icon": "https://raw.githubusercontent.com/kswarrior/ks-panel-store/main/icons/resource-monitor.png",
     "price": "free",
-    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/resource-monitor.zip"
-  },
-  {
-    "id": "user-roles-plus",
-    "name": "User Roles Plus",
-    "description": "Advanced user roles and permission management system.",
-    "version": "1.0.5",
-    "author": "KS Warrior",
-    "category": "security",
-    "icon": "shield-lock",
-    "minPanelVersion": "2.0.0",
-    "price": "free",
-    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/user-roles-plus.zip"
-  },
-  {
-    "id": "auto-restart",
-    "name": "Auto Restart Scheduler",
-    "description": "Schedule automatic server restarts with countdown notifications.",
-    "version": "1.3.0",
-    "author": "KS Warrior",
-    "category": "automation",
-    "icon": "clock-refresh",
-    "minPanelVersion": "2.0.0",
-    "price": "free",
-    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/auto-restart.zip"
+    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/resource-monitor.kspp",
+    "more": "https://raw.githubusercontent.com/kswarrior/ks-panel-store/main/details/resource-monitor.json"
   }
 ]
