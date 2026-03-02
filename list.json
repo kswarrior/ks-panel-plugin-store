@@ -1,0 +1,62 @@
+[
+  {
+    "id": "template-manager",
+    "name": "Template Manager",
+    "description": "Create and manage server templates.",
+    "version": "1.0.0",
+    "author": "KS Warrior",
+    "category": "management",
+    "icon": "layout-template",
+    "minPanelVersion": "2.0.0",
+    "price": "free",
+    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/template-manager.zip"
+  },
+  {
+    "id": "backup-manager",
+    "name": "Backup Manager",
+    "description": "Create, restore, and schedule automatic server backups.",
+    "version": "1.2.0",
+    "author": "KS Warrior",
+    "category": "management",
+    "icon": "database-backup",
+    "minPanelVersion": "2.0.0",
+    "price": "free",
+    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/backup-manager.zip"
+  },
+  {
+    "id": "resource-monitor",
+    "name": "Resource Monitor",
+    "description": "Monitor CPU, RAM, and disk usage in real time.",
+    "version": "1.1.0",
+    "author": "KS Warrior",
+    "category": "monitoring",
+    "icon": "cpu",
+    "minPanelVersion": "2.1.0",
+    "price": "free",
+    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/resource-monitor.zip"
+  },
+  {
+    "id": "user-roles-plus",
+    "name": "User Roles Plus",
+    "description": "Advanced user roles and permission management system.",
+    "version": "1.0.5",
+    "author": "KS Warrior",
+    "category": "security",
+    "icon": "shield-lock",
+    "minPanelVersion": "2.0.0",
+    "price": "free",
+    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/user-roles-plus.zip"
+  },
+  {
+    "id": "auto-restart",
+    "name": "Auto Restart Scheduler",
+    "description": "Schedule automatic server restarts with countdown notifications.",
+    "version": "1.3.0",
+    "author": "KS Warrior",
+    "category": "automation",
+    "icon": "clock-refresh",
+    "minPanelVersion": "2.0.0",
+    "price": "free",
+    "download": "https://github.com/kswarrior/ks-panel-store/raw/main/plugins/auto-restart.zip"
+  }
+]
